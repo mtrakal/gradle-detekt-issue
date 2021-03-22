@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>NewLineAtEndOfFile:ExampleInstrumentedTest.kt$cz.mtrakal.myapplication.ExampleInstrumentedTest.kt</ID>
+    <ID>NewLineAtEndOfFile:ExampleUnitTest.kt$cz.mtrakal.myapplication.ExampleUnitTest.kt</ID>
+    <ID>NewLineAtEndOfFile:MainActivity.kt$cz.mtrakal.myapplication.MainActivity.kt</ID>
+    <ID>UnusedPrivateMember:MainActivity.kt$MainActivity$val x = 0</ID>
+  </CurrentIssues>
+</SmellBaseline>
